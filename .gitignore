@@ -1,0 +1,15 @@
+# Local State & Logs
+*.log
+*.tmp
+*.zip
+state.json
+windeltascan_state.json
+
+# OS Artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor artifacts
+.vscode/
+.idea/
